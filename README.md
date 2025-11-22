@@ -15,3 +15,9 @@ Aplikasi Search Engine Film Indonesia menggunakan TF-IDF
    # Buka di text editor
    $ code .
    ```
+
+## Run Aplikasi
+   ```bash
+   # Run Aplikasi
+   $ php artisan serve
+   ```
