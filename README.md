@@ -1,6 +1,11 @@
 # Search-Engine-Film-Indonesia-menggunakan-TF-IDF
 Aplikasi Search Engine Film Indonesia menggunakan TF-IDF
 
+# Teknologi:
+- Front-end: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery
+- Back-end: PHP, Laravel, Python
+- Database: JSON, pickle
+
 ## Menggunakan Dataset IMDb Indonesian Movies
 [IMDb Indonesian Movies](https://www.kaggle.com/datasets/dionisiusdh/imdb-indonesian-movies)
 
